@@ -2,6 +2,6 @@
 using namespace std;
 
 int main (){
-    cout<<"IAM DOTA";
+    cout<<"Thai_Gaming Super Gay Ricardo";
     
 }
