@@ -17,14 +17,14 @@ int main (){
     cout<<"get ready\n"; 
         cout << j; Sleep(1000); //biến đếm
 } 
-Sleep(1000);
+Sleep(2000);
        
              system("cls");
     cout<<"\tWelcome to ricardo game\n"; //3 lệnh này để in giữ nguyên
     cout<<"Ricardo là dota\n";
     cout<<"get ready\n"; 
     cout<<"0 is gay dota scam ez\n";
-        Sleep(2000);
+        Sleep(4000);
 
     while (TRUE){
         cout<<"DOTA DOTA "; //in =))
