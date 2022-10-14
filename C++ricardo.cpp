@@ -15,11 +15,9 @@ int main (){
     cout<<"\tWelcome to ricardo game\n"; //3 lệnh này để in giữ nguyên
     cout<<"Ricardo là dota\n";
     cout<<"get ready\n"; 
-            
-            cout << j; Sleep(1000); //biến đếm
-        
-        
-        } Sleep(1000);
+        cout << j; Sleep(1000); //biến đếm
+} 
+Sleep(1000);
        
              system("cls");
     cout<<"\tWelcome to ricardo game\n"; //3 lệnh này để in giữ nguyên
